@@ -1,4 +1,4 @@
-ibeCraft is a Minecraft-inspired voxel-style 3D game built using React Native, Expo, and Three.js, tailored for cross-platform deployment on iOS, Android, and Web. This project showcases modern techniques in mobile game development using react-three-fiber, WebGL, and AI-assisted coding workflows.
+VibeCraft is a Minecraft-inspired voxel-style 3D game built using React Native, Expo, and Three.js, tailored for cross-platform deployment on iOS, Android, and Web. This project showcases modern techniques in mobile game development using react-three-fiber, WebGL, and AI-assisted coding workflows.
 
 🚀 Features
 🌍 Interactive 3D Worlds built with react-three-fiber and three.js
